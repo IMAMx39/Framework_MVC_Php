@@ -7,7 +7,10 @@ class HomeController extends BaseController
 {
 
     public function index(){
-        echo "Accueil";
+
+//        return $this->view('blog.index');
+        echo "Home Page";
+
     }
 
 }
