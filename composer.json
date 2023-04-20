@@ -1,0 +1,17 @@
+{
+    "name": "imam/prameworkphp",
+    "description": "Framework  Php en MVC",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imam maassou",
+            "email": "imammaassou1@gmail.com"
+        }
+    ],
+    "require": {}
+}
